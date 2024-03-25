@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Poli</h1>
 <h3 align="center">A passionate Fullstack developer from Luanda</h3>
 
-[![Ap0l1s GitHub stats](https://github-readme-stats.vercel.app/api?username=ap0l1js&show_icons=true&theme=radical)](https://github.com/ap0l1js/github-readme-stats)
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 Learning about <strong>serverless architectures</strong> and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ap0l1js">Github</a>.</li>
 <li>💬 Ping me about <strong>React, Next.js, React ative, and Node</strong>.</li>
 <li>📫 How to reach me **apolinariomanueljs@gmail.com** </li>
-
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -28,3 +26,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
+[![Ap0l1s GitHub stats](https://github-readme-stats.vercel.app/api?username=ap0l1js&show_icons=true&theme=radical)](https://github.com/ap0l1js/github-readme-stats)
