@@ -8,6 +8,7 @@
 <li>💬 Ping me about <strong>React, Next.js, React ative, and Node</strong>.</li>
 <li>📫 How to reach me **apolinariomanueljs@gmail.com** </li>
 </ul>
+[![Ap0l1js GitHub stats](https://github-readme-stats.vercel.app/api?username=ap0l1js&show_icons=true&theme=radical)](https://github.com/ap0l1js/github-readme-stats)
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -26,4 +27,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
-[![Ap0l1js GitHub stats](https://github-readme-stats.vercel.app/api?username=ap0l1js&show_icons=true&theme=radical)](https://github.com/ap0l1js/github-readme-stats)
+
