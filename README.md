@@ -26,4 +26,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
-[![Ap0l1js GitHub stats](https://github-readme-stats.vercel.app/api?username=ap0l1js&show_icons=true&theme=radical)](https://github.com/ap0l1js/github-readme-stats)]
+[![Ap0l1js GitHub stats](https://github-readme-stats.vercel.app/api?username=ap0l1js&show_icons=true&theme=radical)](https://github.com/ap0l1js/github-readme-stats)
